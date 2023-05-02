@@ -37,8 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Scripts/PlayerController.cs" />
-     <Compile Include="Assets/Scripts/Pipes.cs" />
      <Compile Include="Assets/Scripts/SpawnManager.cs" />
+     <Compile Include="Assets/Scripts/Pipes.cs" />
+     <Compile Include="Assets/Scripts/GameOverScreen.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
